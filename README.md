@@ -15,4 +15,4 @@ Config Nightscout path:
 
 Config file location (default installation path): C:\Program Files (x86)\Iwi\NightScout\NightScout.dll.config
 
-Change path: "<add key="Path" value="https://cgmtest.herokuapp.com/"/>"
+Change path: "add key="Path" value="https://cgmtest.herokuapp.com/"/"
