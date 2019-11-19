@@ -1,6 +1,13 @@
 # NightScoutWinTaskbarApp
 A windows Taskbar App that shows the latest Nightscout value
 
+Values:
+* BG
+* Direction
+* Last value time
+
+http://eyeone.be/NightscoutTaskbarApp/NightScoutTaskbarWinApp.JPG
+
 Setup:
 
 PreReq:
